@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to learn git and node\u001b[D\u001b[D\u001b[N\u001b[C\u001b[C\u001b[C\"",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yass565/angular_cousera.git"
+  },
+  "author": "Yasmine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yass565/angular_cousera/issues"
+  },
+  "homepage": "https://github.com/yass565/angular_cousera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
